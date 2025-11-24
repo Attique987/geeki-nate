@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { CiMenuBurger } from "react-icons/ci";
-import Geeki from '../assets/Geekinate-Logo.webp'
+import Geeki from '../assets/geekinate-logo.webp'
 import { IoColorPaletteSharp } from "react-icons/io5";
 import { LuUserRound } from "react-icons/lu";
 import { TfiWindow } from "react-icons/tfi";
